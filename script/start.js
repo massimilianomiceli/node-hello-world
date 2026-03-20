@@ -1,0 +1,1 @@
+console.log("ho eseguito lo script start")
